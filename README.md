@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+OpenVino 2024.0.0 (#8726)
