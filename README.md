@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add docs guide terminal images (#8819)
