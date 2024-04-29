@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix Yolo 8.0.206 scale bug (#7821)
