@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
