@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+OBB: Fix plot_images (#7592)
